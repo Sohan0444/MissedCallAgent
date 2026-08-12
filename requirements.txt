@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+twilio
+python-dotenv
+anthropic
+sqlalchemy
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib

@@ -1,0 +1,28 @@
+# Environments
+venv/
+.venv/
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets / OAuth
+credentials.json
+token.json
+*.pem
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Local call data (contains customer PII)
+call_log.csv
+
+# Editor / OS
+.DS_Store
+.claude/settings.local.json
